@@ -1,3 +1,3 @@
 # automerger-test-repo
 
-## test read test
+## test read cause mergeable to be false
